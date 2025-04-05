@@ -103,9 +103,10 @@
     font-weight: 400;
     line-height: normal;
   }
-  
+
   .main-box {
     height: 858px;
+
     flex-shrink: 0;
     background: url(./images/Group37.png) center / cover no-repeat;
   }
@@ -541,7 +542,8 @@
     font-weight: 400;
     line-height: normal;
   }
-  
+
+
   .footer {
     height: 310px;
     flex-shrink: 0;
